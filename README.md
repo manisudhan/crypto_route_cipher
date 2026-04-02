@@ -127,32 +127,5 @@ route-cipher/
 
 ---
 
-## 🚀 How to Run
-
-1. Make sure Python is installed
-2. Save the code in a file (e.g., `main.py`)
-3. Run the program:
-
-```bash
-python main.py
-```
-
----
-
-⚠️ Notes
-
-* The grid size (`rows × cols`) must match during encryption and decryption
-* Padding (`X`) may appear in decrypted output if text length doesn’t fill the grid exactly
-
----
-
-Future Improvements
-
-* Allow dynamic grid size selection
-* Support different traversal patterns (spiral, zigzag, etc.)
-* Add GUI or web interface
-
-
-Manisudhan
 
 
